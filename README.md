@@ -15,3 +15,17 @@ xiaomiShop使用最新的flutter3.x版本开发，模拟了真实复杂接口数
       # 使用 flutter_screenutil 进行屏幕适配
   flutter_screenutil: ^5.9.0
 ```
+- 项目截图
+  
+
+![Simulator Screen Recording - iPhone 14 Pro - 2023-11-16 at 10 24 57](https://github.com/zhYes/xiaomiShop/assets/19343447/d8207d07-4713-45bd-995d-8ba98a9d40c2)
+![Simulator Screen Recording - iPhone 14 Pro - 2023-11-16 at 10 25 40](https://github.com/zhYes/xiaomiShop/assets/19343447/6fc6fb79-b5fa-420a-ad9e-53b6d84ccddb)
+![Simulator Screen Recording - iPhone 14 Pro - 2023-11-16 at 10 26 54](https://github.com/zhYes/xiaomiShop/assets/19343447/1e07a241-0542-4569-ae9a-cdb67b705d63)
+![Simulator Screen Recording - iPhone 14 Pro - 2023-11-16 at 10 28 32](https://github.com/zhYes/xiaomiShop/assets/19343447/f944564b-5e9e-4f53-9cf8-46eb3babbd7d)
+![Simulator Screen Recording - iPhone 14 Pro - 2023-11-16 at 10 33 04](https://github.com/zhYes/xiaomiShop/assets/19343447/d0f6097e-bf06-4251-9f34-039deed4f96a)
+![Simulator Screen Recording - iPhone 14 Pro - 2023-11-16 at 10 34 08](https://github.com/zhYes/xiaomiShop/assets/19343447/7080e5b2-0614-4580-a00d-63662ea0359f)
+![Simulator Screen Recording - iPhone 14 Pro - 2023-11-16 at 10 34 47](https://github.com/zhYes/xiaomiShop/assets/19343447/3571a007-96e4-41a2-a781-6fa023dc4433)
+![Simulator Screen Recording - iPhone 14 Pro - 2023-11-16 at 10 37 44](https://github.com/zhYes/xiaomiShop/assets/19343447/182b6f65-fb39-419a-ac6a-4562c50cf82e)
+![Simulator Screen Recording - iPhone 14 Pro - 2023-11-16 at 10 38 39](https://github.com/zhYes/xiaomiShop/assets/19343447/0a50840d-7955-42a1-afe2-8f5e4cd43234)
+![Simulator Screen Recording - iPhone 14 Pro - 2023-11-16 at 10 40 09](https://github.com/zhYes/xiaomiShop/assets/19343447/bfad357d-f077-4f6d-80ba-dde2c768928b)
+![Simulator Screen Recording - iPhone 14 Pro - 2023-11-16 at 10 36 20](https://github.com/zhYes/xiaomiShop/assets/19343447/8e0bbab1-89fe-4d06-8b25-a96dd5b7913f)
