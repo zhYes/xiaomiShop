@@ -3,7 +3,7 @@ xiaomiShop使用最新的flutter3.x版本开发，模拟了真实复杂接口数
 - 学习心得：
 本人从事ios开发多年一直关注flutter的发展从最初的王红元codewhy老师的flutter1.2开始学习，虽然最近1年没有在公司项目中使用flutter但始终保持手热的状态，也希望能找到一份flutter开发的工作，有合适的欢迎联系我的邮箱zh_yes@foxmail.com
 - 项目sdk简单介绍：
-  ```
+```
   #网络请求,封装dio库进行网络请求
     - dio: ^5.3.3
  #历史保存，使用shared_preferences进行登录状态保存
