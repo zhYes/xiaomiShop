@@ -1,0 +1,43 @@
+name: getxclidemo01
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.1.2 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.6
+  flutter: 
+    sdk: flutter
+    # add flutter_screenutil 屏幕适配
+  flutter_screenutil: ^5.9.0
+  #网络请求
+  dio: ^5.3.3
+  #轮播图
+  flutter_swiper_view: ^1.1.8
+  #瀑布流
+  flutter_staggered_grid_view: ^0.7.0
+  #历史保存
+  shared_preferences: ^2.2.2
+  #html
+  # flutter_html: ^2.2.1
+  flutter_html: ^3.0.0-beta.2
+  #验证码方格
+  pin_code_fields: ^8.0.1
+  #三级联动
+  city_pickers: ^1.3.0
+  #加密
+  crypto: ^3.0.3
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+
+flutter: 
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
