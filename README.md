@@ -15,6 +15,7 @@ xiaomiShop使用最新的flutter3.x版本开发，模拟了真实复杂接口数
       # 使用 flutter_screenutil 进行屏幕适配
   flutter_screenutil: ^5.9.0
 ```
+- github 由于你懂的原因，下载速度缓慢，图片也无法查看，可以跳转 简书：https://www.jianshu.com/p/56e131013e9f
 - 项目截图
   
 
